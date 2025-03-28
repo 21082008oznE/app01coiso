@@ -1,0 +1,9 @@
+{
+    "name": "App_Portifólio",
+    "short": "Porsemfólio",
+    "start_url": "/",
+    "display": "standalone", //faz o app abrir como aplicativo independente
+    "background_color": "linear-gradient(90deg, #000000 0%, #2f007b 100%)", //cor fe fundo durante carregamento
+    "theme_color": "#b00b69",
+
+}
