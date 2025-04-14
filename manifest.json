@@ -1,9 +1,38 @@
 {
-    "name": "App_Portifólio",
-    "short": "Porsemfólio",
+    "Name": "WebApp portifólio",
+    "short_name": "Portifólio",
     "start_url": "/",
-    "display": "standalone", //faz o app abrir como aplicativo independente
-    "background_color": "linear-gradient(90deg, #000000 0%, #2f007b 100%)", //cor fe fundo durante carregamento
-    "theme_color": "#b00b69",
-
+    "display": "standalone",
+    "background_color": "#FFFFFF.",
+    "theme_color": "#000000",
+    "decription": "esse é o app do estudantes do 3° sistema 2025",
+    "id": "portifólio-app",
+    "dir": "lpr",
+    "lang": "pt-br",
+    "icons": [
+        {
+            "scr": "/icons-192.png",
+            "size": "192x192",
+            "tipe": "image/png"
+        },
+        {
+            "scr": "/icons-512.png",
+            "size": "512x512",
+            "tipe": "image/png"
+        }
+    ],
+    "orientation": "portait",
+    "screenshots": ""[
+        {
+            "scr": "/screenshot1.png",
+            "sizes": "320x480",
+            "type": "image.png"
+        }
+    ],
+    "categories": [
+        "Education"
+    ],
+    "prefer_related_applications": false,
+    "push": true,
+    "scope": "/"
 }
