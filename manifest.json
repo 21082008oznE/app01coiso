@@ -11,12 +11,12 @@
     "lang": "pt-br",
     "icons": [
         {
-            "scr": "/icons-192.png",
+            "scr": "/icon-192.png",
             "size": "192x192",
             "tipe": "image/png"
         },
         {
-            "scr": "/icons-512.png",
+            "scr": "/icon-512.png",
             "size": "512x512",
             "tipe": "image/png"
         }
